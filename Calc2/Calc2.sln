@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calc2", "Calc2\Calc2.vcxproj", "{225CDC0B-8193-4173-9AE3-5B840BBF2B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Debug|x64.ActiveCfg = Debug|x64
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Debug|x64.Build.0 = Debug|x64
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Debug|x86.ActiveCfg = Debug|Win32
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Debug|x86.Build.0 = Debug|Win32
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Release|x64.ActiveCfg = Release|x64
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Release|x64.Build.0 = Release|x64
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Release|x86.ActiveCfg = Release|Win32
+		{225CDC0B-8193-4173-9AE3-5B840BBF2B08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B9A1D2-4505-4441-99DF-97EA7AC16858}
+	EndGlobalSection
+EndGlobal
